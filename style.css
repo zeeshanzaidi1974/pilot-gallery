@@ -89,11 +89,11 @@
  .grid-container {
   	display: grid;
 	
-  	height: 400px;
+  	height: 420px;
 	
- 		 width: 1300px;
+ 		 width: 1330px;
 
-     margin-top: 200px;
+     margin-top: 150px;
     
   grid-template-columns: auto auto auto;
   
