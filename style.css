@@ -93,17 +93,17 @@
 	
  		 width: 1300px;
 
-     margin-top: 250px;
+     margin-top: 200px;
     
   grid-template-columns: auto auto auto;
   
-   margin-left: 300px;
+   margin-left: 250px;
  
 	 gap: 50px;
 	
   	background-color: #EDE6DC;
 
-	  padding: 30px;
+	  padding: 50px;
   
 }
 
