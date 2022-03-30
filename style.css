@@ -111,21 +111,21 @@
      .grid-container2 {
   	display: grid;
 	
-  	height: 400px;
+  	height: 420px;
 	
- 		 width: 1300px;
+ 		 width: 1330px;
 
-     margin-top: 250px;
+     margin-top: 570px;
     
   grid-template-columns: auto auto auto;
   
-   margin-left: 480px;
+   margin-left: 250px;
  
 	 gap: 50px;
 	
   	background-color: #EDE6DC;
 
-	  padding: 10px;
+	  padding: 50px;
   
 }
   
